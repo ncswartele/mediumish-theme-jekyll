@@ -1,7 +1,7 @@
 # Site
-name: "Goonse's Travel Experiences Netlify"
+name: 
 title: "Goonse's Travel Experiences"
-description: "Hi! Welcome on my travelblog! On this website I share my experiences travelling the globe"
+description: 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: 
