@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Over Reisbird
 permalink: /about
 comments: true
 ---
