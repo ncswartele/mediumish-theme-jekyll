@@ -31,9 +31,12 @@ collections:
       preview: false
     fields:
     - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'author' }
-    - { label: 'Short Name', name: 'name', widget: 'string' }
+    - { label: 'Short Name', name: 'name', widget: 'hidden' }
     - { label: 'Display Name', name: 'display_name', widget: 'string' }
-    - { label: 'Position', name: 'position', widget: 'string' }
+    - { label: 'Avatar', name: 'avatar', widget: 'image' }
+    - { label: 'Email', name: 'email', widget: 'string' }
+    - { label: 'Website', name: 'web', widget: 'string' }
+    - { label: 'Social', name: 'twitter', widget: 'string' }
     - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: 'pages'
