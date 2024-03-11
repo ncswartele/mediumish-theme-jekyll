@@ -37,7 +37,7 @@ collections:
     - { label: 'Email', name: 'email', widget: 'string' }
     - { label: 'Website', name: 'web', widget: 'string' }
     - { label: 'Social', name: 'twitter', widget: 'string' }
-    - { label: 'Body', name: 'body', widget: 'markdown' }
+    - { label: 'Description', name: 'description', widget: 'markdown' }
 
   - name: 'pages'
     label: 'Pages'
